@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mohammed_MarkelApi", "Mohammed_MarkelApi\Mohammed_MarkelApi.csproj", "{DF6D7FDF-FE21-4782-B44B-F6C03963554E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkelApi_UnitTests", "MarkelApi_UnitTests\MarkelApi_UnitTests.csproj", "{3574F7FE-907F-4E0E-B9CE-62E6D4F27DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF6D7FDF-FE21-4782-B44B-F6C03963554E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6D7FDF-FE21-4782-B44B-F6C03963554E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6D7FDF-FE21-4782-B44B-F6C03963554E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6D7FDF-FE21-4782-B44B-F6C03963554E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3574F7FE-907F-4E0E-B9CE-62E6D4F27DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3574F7FE-907F-4E0E-B9CE-62E6D4F27DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3574F7FE-907F-4E0E-B9CE-62E6D4F27DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3574F7FE-907F-4E0E-B9CE-62E6D4F27DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE807364-C0E3-44D1-86A3-EC4DF12D6F4F}
+	EndGlobalSection
+EndGlobal
